@@ -26,12 +26,6 @@ html{
     top:60%;
     bottom: 20%;
 }
-
-.heroMainText {
-  font-size: 48px;
-  font-weight: bolder;
-  color: #f9faf8;
-}
 button.confirm {
   background: green;
   color: white;
