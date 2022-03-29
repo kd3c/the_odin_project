@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Bigos</h1>
+    <p><img src="../img/bigos.jpg" alt="bigos pic" width="500"/></p>
+    <p><h3>Traditional Polish meal made from cabage and meat</h3></p>
+    <p>
+        This is one of the traditional Polish meals 
+    </p>
+    <ul>
+        <li>500 g mięsa wieprzowego (np. karkówki)</li>
+        <li>200 g kiełbasy.</li>
+        <li>2 łyżki oleju roślinnego</li>
+        <li>3 szklanki bulionu lub wody.</li>
+        <li>30 g suszonych borowików..</li>
+        <li>2 łyżki powideł śliwkowych lub kilka suszonych śliwek.</li>
+    </ul>
+    <ol>
+        <li>Mięso pokroić w kostkę. Cebulę pokroić w kosteczkę i zeszklić na oleju w dużym garnku. Dodać mięso i dokładnie je obsmażyć.</li>
+        <li>Wlać 2 szklanki gorącego bulionu lub wody z solą i pieprzem, zagotować. Następnie dodać połamane suszone grzyby, przykryć, zmniejszyć ogień i gotować przez <strong> 45 minut.</strong></li>
+        <li>	Dodać listek laurowy, ziela angielskie, kminek, majeranek, powidła śliwkowe lub posiekane śliwki, obrane i pokrojone w kosteczkę obrane jabłko i wymieszać.</li>
+    </ol>
+    <a href="../index.html">Home Page</a>
+</body>
+</html>
