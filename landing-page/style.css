@@ -1,5 +1,6 @@
 html{
     background-color: black;
+    border: 2px solid darkslategray;
 }
 .page {
     background-color: #1F2937;
@@ -12,7 +13,62 @@ html{
     bottom: 0;
     right: 0;
     overflow: auto;
+    display:flex;
+    
 }
+.header{
+  height:50px;
+  width:100%;
+  padding:10px;
+  display:flex;
+  /*justify-content:space-evenly;*/
+  border: 2px solid darkslategray;
+}
+  .logoText{
+    font-size: 24px;
+    margin-left: 25%;
+    font-weight: bolder;
+    color:#F9FAF8;
+    display:flex;
+    border: 2px solid darkslategray;
+  }
+  .linkText{
+    font-size: 18px;
+    color:#E5E7EB;
+    padding:10px;
+    display:flex;
+    /*justify-content:space-evenly;*/
+    border: 2px solid darkslategray;
+  }
+  .page.topSection{
+    top:50px;
+    height:21%;
+    border: 2px solid darkslategray;
+    display:flex;
+  }
+  .topSection.left{
+    width: 50%;
+    float:left;
+    flex-direction: column; 
+    border: 2px solid darkslategray;
+  }
+  .topSection.right{
+    width: 50%;
+    float:right;
+    border: 2px solid darkslategray;
+  }
+  .largeText{
+    border: 2px solid darkslategray;
+    font-size: 48px;
+    font-weight: bolder;
+    color:#F9FAF8;
+  }
+  .smallText{
+    border: 2px solid darkslategray;
+    font-size: 18px;
+    font-weight:normal;
+    color:#E5E7EB;
+  }
 .page.wide-stripe {
     top:25%;
     background-color: whitesmoke;
