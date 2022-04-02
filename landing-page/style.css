@@ -1,6 +1,5 @@
 html{
     background-color: black;
-    border: 2px solid darkslategray;
 }
 .page {
     background-color: #1F2937;
@@ -48,11 +47,18 @@ html{
   }
   .topSection.left{
     width: 50%;
+    padding-top:2%;
+    padding-left:12%;
+    padding-right:5%;
     float:left;
     flex-direction: column; 
     border: 2px solid darkslategray;
   }
   .topSection.right{
+    padding-top:2%;
+    padding-left:12%;
+    padding-right:5%;
+    margin-left: 10px;
     width: 50%;
     float:right;
     border: 2px solid darkslategray;
